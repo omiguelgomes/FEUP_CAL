@@ -1,0 +1,15 @@
+.idea/
+cmake-build-debug/
+.vs
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+app
+*.d
+*.o
+Debug/
+*.sln
